@@ -1,0 +1,16 @@
+﻿Mostrar conflictos leves de horario 09-09-25 Final Bloqueado.fet
+Generado con FET 7.4.7 el 12/9/25 11:29
+
+Número de restricciones leves incumplidas: 6
+Total de conflictos leves: 5.78
+
+Lista de conflictos leves en orden decreciente:
+
+Restricción de tiempo, hora de inicio preferida para una actividad, incorrecta para la actividad ID =40 (1/2 -     Alconchel Vázquez Carlos  - Secretaría - sin alumnos), esto aumenta el total de conflictos en un 0.99
+Restricción de tiempo, hora de inicio preferida para una actividad, incorrecta para la actividad ID =52 (1/2 -     Alconchel Vázquez Carlos  - Secretaría - sin alumnos), esto aumenta el total de conflictos en un 0.99
+Restricción de tiempo mín. huecos entre actividades errónea: la actividad con id=48 (1/2 -     Alconchel Vázquez Carlos  - Secretaría - sin alumnos) entra en conflicto con la actividad con id=42 (1/2 -     Alconchel Vázquez Carlos  - Secretaría - sin alumnos), están en el mismo día Jueves y hay más de 1 horas necesarias entre ellas, aumento del factor de conflicto=0.95.
+Restricción de tiempo mín. huecos entre actividades errónea: la actividad con id=49 (    1/2 - Alconchel Vázquez Carlos  - Secretaría - sin alumnos) entra en conflicto con la actividad con id=46 (1/2 -     Alconchel Vázquez Carlos  - Secretaría - sin alumnos), están en el mismo día Miércoles y hay más de 1 horas necesarias entre ellas, aumento del factor de conflicto=0.95.
+Restricción de tiempo mín. huecos entre actividades errónea: la actividad con id=50 (1/2 -     Alconchel Vázquez Carlos  - Secretaría - sin alumnos) entra en conflicto con la actividad con id=41 (    1/2 - Alconchel Vázquez Carlos  - Secretaría - sin alumnos), están en el mismo día Martes y hay más de 1 horas necesarias entre ellas, aumento del factor de conflicto=0.95.
+Restricción de tiempo mín. huecos entre actividades errónea: la actividad con id=51 (    1/2 - Alconchel Vázquez Carlos  - Secretaría - sin alumnos) entra en conflicto con la actividad con id=45 (    1/2 - Alconchel Vázquez Carlos  - Secretaría - sin alumnos), están en el mismo día Viernes y hay más de 1 horas necesarias entre ellas, aumento del factor de conflicto=0.95.
+
+Fin de archivo.
